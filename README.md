@@ -9,12 +9,6 @@ MotionRisk Vision은 카메라 영상과 모바일 센서 데이터를 활용하
 
 ---
 
-## Repository
-
-* [Team4 Repository](https://github.com/whan1569/Team4)
-
----
-
 ## 프로젝트 목표
 
 * 카메라 영상 기반 사고 전조 판단 가능성 검토
